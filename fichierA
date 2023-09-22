@@ -1,3 +1,6 @@
 test du fichierA en gros
 modification du fichierA mdrr
-ceci est une modification locale
+<<<<<<< HEAD
+=======
+ceci est une modification distante
+>>>>>>> 190086ef69a7bf01b513440053e5f8a208852cdd
